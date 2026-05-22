@@ -1,0 +1,8 @@
+{
+  "name": "AI Nexus: Polymath Companion",
+  "description": "A world-class AI agent for real-time news, automated teaching, joke telling, and visual synthesis powered by Gemini 3.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
